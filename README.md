@@ -1,2 +1,3 @@
-# javacourse
+Arrays are a basic tool in Java. The main thing to remember is that their size is fixed—once you create one, you can't change how many items it holds. They are very fast and efficient because they can store both simple data (such as basic numbers) and objects.
+ArrayLists are part of Java's "Collections" library. They are much more flexible because they are dynamic, meaning they automatically grow or shrink as you add or remove items. While they only store objects, Java handles number conversion for you automatically. They also come with built-in shortcuts (like .add() or .sort()) that make managing data much easier.
 
